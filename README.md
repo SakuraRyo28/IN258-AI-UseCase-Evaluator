@@ -55,13 +55,13 @@ AI-UseCase-Evaluator
 
 ## Team aufteilung:
 
-### Team App:
+### Team App: (main)
 - Murat (Lead)
 - Koray
 - Dawit
 - Zlata
 
-### Team Web:
+### Team Web: (optional)
 - Mostafa (Lead)
 - Dawit
 - Zlata
