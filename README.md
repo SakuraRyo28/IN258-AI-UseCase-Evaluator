@@ -53,6 +53,19 @@ AI-UseCase-Evaluator
 └── pom.xml
 ```
 
+## Team aufteilung:
+
+### Team App:
+- Murat (Lead)
+- Koray
+- Dawit
+- Zlata
+
+### Team Web:
+- Mostafa (Lead)
+- Dawit
+- Zlata
+
 ## Stand der dinge:
 
 ### Person 1 – Data Architect (Dawit)
