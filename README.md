@@ -53,39 +53,45 @@ AI-UseCase-Evaluator
 └── pom.xml
 ```
 
-### Stand der dinge:
+## Stand der dinge:
 
-Person 1 – Data Architect (Dawit)
-Verantwortlichkeiten
+### Person 1 – Data Architect (Dawit)
+#### Verantwortlichkeiten
 - ⬜ Datenmodell entwerfen
 - ⬜ MongoDB Collections definieren
 - ⬜ Dokumentstruktur festlegen
 - ⬜ Validierungen definieren
 - ⬜ Indizes erstellen
-Artefakte
+  
+#### Artefakte
 - ⬜ UseCase-Datenmodell
 - ⬜ MongoDB Schema
 - ⬜ Indexierungsstrategie
-Person 2 – Backend Developer (du)
-Verantwortlichkeiten
+  
+### Person 2 – Backend Developer (du)
+#### Verantwortlichkeiten
 - ✅ Verbindung zu MongoDB
 - ⬜ CRUD-Funktionen
 - ⬜ Services und Datenzugriff
 - ⬜ Daten speichern und abrufen
-Artefakte
+  
+#### Artefakte
 - ⬜ MongoService.java
 - ⬜ CRUD-Funktionen
 - ✅ Datenbankanbindung
-Person 3 – Data Analyst (Koray)
+  
+### Person 3 – Data Analyst (Koray)
 - ⬜ alle Punkte offen
-Person 4 – AI & Risk Analyst (Zlata)
-Verantwortlichkeiten
+  
+### Person 4 – AI & Risk Analyst (Zlata)
+#### Verantwortlichkeiten
 - ✅ Kriterienkatalog definieren
 - ✅ Nutzwertmodell entwickeln
 - 🟡 Risiken bewerten (Risiko ist als Kriterium drin, eine eigene Risikobetrachtung fehlt)
 - 🟡 Testfälle definieren (zwei Beispielbewertungen vorhanden, kein Testfallkatalog)
 - ⬜ Reflexion erstellen
-Artefakte
+  
+#### Artefakte
 - ✅ Bewertungslogik (fachlich definiert, technisch noch nicht implementiert)
 - 🟡 Testfälle
 - ⬜ Reflexion
